@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>이게 맞는거냐 시발????</Text>
+      <Text>이게 맞는거냐 시발???? 코멘트는 어떻게 다는거지?</Text>
       <StatusBar style="auto" />
     </View>
   );
